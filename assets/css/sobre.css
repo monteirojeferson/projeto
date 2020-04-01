@@ -3,7 +3,7 @@ body{
     background-image: linear-gradient(to right,rgb(236, 96, 119),rgb(241, 163, 176),rgb(238, 211, 215));
 } */
 body{
-  font-family: 'Amaranth', sans-serif;
+  /* font-family: 'Amaranth', sans-serif; */
   /* background-image: linear-gradient(to right,rgb(252, 71, 110),rgb(238, 211, 215) ); */
 }
 nav{
@@ -18,13 +18,16 @@ h1{
    
    
 }
-#Footer{
+footer{
     background-color:  rgba(0, 0, 0, 0.938);
-    color: rgb(252, 71, 110);
+    color: white;
     bottom: 0;
     width: 100%;
     text-align: center;
     position: static;
+}
+#imgsobre{
+  width: 100%;
 }
 
 .faq {
